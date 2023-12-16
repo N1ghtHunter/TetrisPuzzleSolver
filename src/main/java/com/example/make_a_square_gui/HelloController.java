@@ -195,7 +195,7 @@ public class HelloController implements Initializable {
                 // loop over the last 50 boards
                 if (arr2.size() > 50) {
                     for (int i = arr2.size() - 50; i < arr2.size(); i++) {
-                        Test test = Test.showGUI(arr2.get(i));
+                        Painter test = Painter.showGUI(arr2.get(i));
                         try {
                             TimeUnit.MILLISECONDS.sleep(100);
                         } catch (InterruptedException e) {
@@ -206,7 +206,7 @@ public class HelloController implements Initializable {
                     }
                 } else {
                     for (int i = 0; i < arr2.size(); i++) {
-                        Test test = Test.showGUI(arr2.get(i));
+                        Painter test = Painter.showGUI(arr2.get(i));
                         try {
                             TimeUnit.MILLISECONDS.sleep(100);
                         } catch (InterruptedException e) {
