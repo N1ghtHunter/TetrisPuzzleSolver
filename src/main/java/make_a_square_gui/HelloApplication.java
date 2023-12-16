@@ -1,4 +1,4 @@
-package com.example.make_a_square_gui;
+package make_a_square_gui;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

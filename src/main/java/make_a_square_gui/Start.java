@@ -1,11 +1,7 @@
-package com.example.make_a_square_gui;
+package make_a_square_gui;
 
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;
-
-import javafx.application.Platform;
-import javafx.scene.control.Alert;
-import javafx.scene.control.ButtonType;
 
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -14,7 +10,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.concurrent.TimeUnit;
 
 public class Start {
     JFrame frame;

@@ -4,7 +4,7 @@ module com.example.make_a_square_gui {
     requires java.desktop;
     requires java.logging;
 
-    opens com.example.make_a_square_gui to javafx.fxml;
+    opens make_a_square_gui to javafx.fxml;
 
-    exports com.example.make_a_square_gui;
+    exports make_a_square_gui;
 }
