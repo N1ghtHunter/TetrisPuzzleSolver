@@ -30,3 +30,13 @@ Our program solves the Tetris puzzle using a multi-threaded approach. The progra
 - L=2, Z=2
 - S=2, J=2
 - L=1, J=1, I=1, Z=1
+
+### Authors
+
+- [Mazin Islam](https://github.com/N1ghtHunter)
+- [Kerolus Soliman](https://github.com/kerolus77)
+- [Philo Ezzat](https://github.com/Philo-Ezzat)
+- Fam Fayez
+- [Kerolos Samy]()
+- [Marina Ayman](https://github.com/MarinaAymanHanna)
+- [Marina Ghattas](https://github.com/Marinaghatas)
